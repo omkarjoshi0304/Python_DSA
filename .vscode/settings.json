@@ -1,0 +1,37 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showSnippets": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "cursor.completions.enabled": false,
+  "cursor.cpp.disabledLanguages": [
+    "python",
+    "jupyter",
+    "plaintext",
+    "markdown",
+    "json",
+    "jsonc"
+  ],
+  "notebook.inlineSuggest.enabled": false,
+  "[python]": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false
+  },
+  "jupyter.completionTriggerCharacters": {
+    "python": []
+  }
+}
